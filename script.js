@@ -7,35 +7,32 @@ const pergunta = [
     {
         enunciado: "você esta entediado(a) e deside mecher no PC  ",
         alternativas: [
-            "assistir um filme",
+            "entrar em um bate papo online",
             "jogar um jogo online"
         ]
     },
     {
-        enunciado: "jogando e você encontra um outro jogador irritado discutindo com seu colega",
+        enunciado: "você encontra uma outra pessoa irritado discutindo com seu colega",
         alternativas: [
-            "entrar na discussão em defeza do seu colega",
+            "entrar na discussão",
             "tentar entender a discussão"
         ]
     },
     {
-        enunciado: "eles le perguntão qual é o certo",
+        enunciado: "eles descutem sobre qual é o certo entre bolacha e biscoito, eles le perguntão qual é o certo",
         alternativas: [
-            "bolacha",
-            "biscoito"
+            "você responde bislacha",
+            "você  responde bolabiz"
         ]
     },
     {
-        enunciado: "você escolhe biscoito e seu amigo ficou brabo pois falou q era bolacha e você deside ",
+        enunciado: "eles falam que isso não existe ",
         alternativas: [
-            "consolar ele",
-            "tentar convencer ele que o certo e biscoito"
+            "você fica quieto e vai dormir",
+            "você joga mais outro jogo ate de noite"
         ]
     },
     {
-        enunciado: "vocês entraram em uma discucão",
-        alternativas: [
-            "você deside deichar pra lá",
-            "xingar ele e toda sua geração e perder a amizade com ele"
+        enunciado: "você pega no sono",
         ]
     }
